@@ -1,0 +1,10 @@
+# center cube : 6
+# sub cube : 12
+# corner cube : 8
+
+front  : red
+back   : orange
+left   : green
+right  : blue
+top    : white
+bottom : yellow
